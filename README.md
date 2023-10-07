@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C# and .Net**
 
-- 📫 How to reach me **2cnb0z7@code.edu.az**
+- 📫 How to reach me ** 2cnb0z7@code.edu.az**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
